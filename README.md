@@ -5,4 +5,4 @@ EA_WITH_NO_REPAINT_ARROWS https://www.youtube.com/watch?v=u6twYQaz5Y8
 https://www.paypal.com/paypalme/anhpnh
 
 # XAUUSD Ticket Manager Data Backtest
-![Screenshot](DailyBreakoutV5_GU.PNG)
+![Screenshot](EA_NonRepaintArrow_XAUUSD.PNG)
